@@ -3,6 +3,12 @@
   "displayName": "CheYHinSpark Theme",
   "description": "",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "CheYHinSpark",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CheYHinSpark/CheYHinSpark-Theme"
+	},
   "engines": {
     "vscode": "^1.102.0"
   },
