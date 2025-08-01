@@ -21,6 +21,11 @@
         "label": "CheYHinSpark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/cheyhinspark-theme.json"
+      },
+      {
+        "label": "CheYHinSpark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/cheyhinspark-high-contrast.json"
       }
     ]
   }
