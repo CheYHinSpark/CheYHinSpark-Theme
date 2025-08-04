@@ -23,9 +23,14 @@
         "path": "./themes/cheyhinspark-theme.json"
       },
       {
-        "label": "CheYHinSpark High Contrast",
+        "label": "CheYHinSpark Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cheyhinspark-blue.json"
+      },
+      {
+        "label": "CheYHinSpark Blue HC",
         "uiTheme": "hc-black",
-        "path": "./themes/cheyhinspark-high-contrast.json"
+        "path": "./themes/cheyhinspark-blue-hc.json"
       }
     ]
   }
