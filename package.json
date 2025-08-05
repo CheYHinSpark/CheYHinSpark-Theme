@@ -24,9 +24,29 @@
         "path": "./themes/cheyhinspark-blue.json"
       },
       {
+        "label": "CheYHinSpark Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cheyhinspark-green.json"
+      },
+      {
+        "label": "CheYHinSpark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cheyhinspark-purple.json"
+      },
+      {
         "label": "CheYHinSpark Blue HC",
         "uiTheme": "hc-black",
         "path": "./themes/cheyhinspark-blue-hc.json"
+      },
+      {
+        "label": "CheYHinSpark Green HC",
+        "uiTheme": "hc-black",
+        "path": "./themes/cheyhinspark-green-hc.json"
+      },
+      {
+        "label": "CheYHinSpark Purple HC",
+        "uiTheme": "hc-black",
+        "path": "./themes/cheyhinspark-purple-hc.json"
       }
     ]
   }

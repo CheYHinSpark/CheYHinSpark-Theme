@@ -1,16 +1,28 @@
-# cheyhinspark-theme README
+# CheYHinSpark Theme README
 
-## Working with Markdown
+This collection contains several themes for VS Code. 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## CheYHinSpark Blue
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The default theme is mainly blue and decorated with orange. 
 
-## For more information
+## CheYHinSpark Blue HC
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A high-contrast version of **CheYHinSpark Blue**. 
 
-**Enjoy!**
+## CheYHinSpark Green
+
+This is a eye-friendly theme using green color and magenta as highlight. 
+
+## CheYHinSpark Green HC
+
+A high-contrast version of **CheYHinSpark Green**. 
+
+## CheYHinSpark Purple
+
+This is a cool theme using purple color and chartreuse as highlight. 
+
+## CheYHinSpark Purple HC
+
+A high-contrast version of **CheYHinSpark Purple**. 
+
