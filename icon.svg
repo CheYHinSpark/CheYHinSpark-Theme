@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" 
+    height="256"
+    viewBox="0 0 256 256" 
+    xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad_blue" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#3399FF"/>
+            <stop offset="100%" stop-color="#06121E"/>
+        </linearGradient>
+        <linearGradient id="grad_green" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#061E12"/>
+            <stop offset="100%" stop-color="#33FF99"/>
+        </linearGradient>
+        <linearGradient id="grad_purple" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#12061E"/>
+            <stop offset="100%" stop-color="#9933FF"/>
+        </linearGradient>
+
+        <mask id="mask">
+            <circle cx="128" cy="128" r="128" fill="#FFFFFF"/>
+        </mask>
+
+
+        <g id="g">
+            <rect x="96" y="112" width="64" height="256" rx="8" fill="url(#grad_blue)"/>
+            <rect x="96" y="-32" width="64" height="128" rx="8" fill="#14191E" 
+                stroke="#FF9933" stroke-dasharray="8 8" stroke-width="2"/>
+            <rect x="16" y="-112" width="64" height="256" rx="8" fill="url(#grad_green)"/>
+            <rect x="16" y="160" width="64" height="128" rx="8" fill="#141E19" 
+                stroke="#FF3399" stroke-dasharray="8 8" stroke-width="2"/>
+            <rect x="176" y="-112" width="64" height="256" rx="8" fill="url(#grad_purple)"/>
+            <rect x="176" y="160" width="64" height="128" rx="8" fill="#19141E" 
+                stroke="#99FF33" stroke-dasharray="8 8" stroke-width="2"/>
+        </g>
+    </defs>
+
+
+    <circle cx="128" cy="128" r="128" fill="#000000"/>
+    <use href="#g" transform="rotate(30,128,128)" mask="url(#mask)"/>
+</svg>

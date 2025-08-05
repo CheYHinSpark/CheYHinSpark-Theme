@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "publisher": "CheYHinSpark",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/CheYHinSpark/CheYHinSpark-Theme"
