@@ -18,11 +18,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "CheYHinSpark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/cheyhinspark-theme.json"
-      },
-      {
         "label": "CheYHinSpark Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/cheyhinspark-blue.json"
