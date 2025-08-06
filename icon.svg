@@ -24,13 +24,13 @@
 
         <g id="g">
             <rect x="96" y="96" width="64" height="256" rx="8" fill="url(#grad_blue)"/>
-            <rect x="96" y="-48" width="64" height="128" rx="8" fill="#14191E" 
+            <rect x="96" y="-48" width="64" height="128" rx="8" fill="#181B1E" 
                 stroke="#FF9933" stroke-dasharray="8 8" stroke-width="4"/>
             <rect x="16" y="-96" width="64" height="256" rx="8" fill="url(#grad_green)"/>
-            <rect x="16" y="176" width="64" height="128" rx="8" fill="#141E19" 
+            <rect x="16" y="176" width="64" height="128" rx="8" fill="#181E1B" 
                 stroke="#FF3399" stroke-dasharray="8 8" stroke-width="4"/>
             <rect x="176" y="-96" width="64" height="256" rx="8" fill="url(#grad_purple)"/>
-            <rect x="176" y="176" width="64" height="128" rx="8" fill="#19141E" 
+            <rect x="176" y="176" width="64" height="128" rx="8" fill="#1B181E" 
                 stroke="#99FF33" stroke-dasharray="8 8" stroke-width="4"/>
         </g>
     </defs>
