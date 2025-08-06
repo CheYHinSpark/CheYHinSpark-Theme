@@ -39,6 +39,16 @@
         "path": "./themes/cheyhinspark-blue-light.json"
       },
       {
+        "label": "CheYHinSpark Green Light",
+        "uiTheme": "vs",
+        "path": "./themes/cheyhinspark-green-light.json"
+      },
+      {
+        "label": "CheYHinSpark Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/cheyhinspark-purple-light.json"
+      },
+      {
         "label": "CheYHinSpark Blue HC",
         "uiTheme": "hc-black",
         "path": "./themes/cheyhinspark-blue-hc.json"
