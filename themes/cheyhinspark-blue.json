@@ -7,14 +7,18 @@
 		"activityBar.foreground": "#3399FF",
 		"activityBar.inactiveForeground": "#647382",
 		"activityBarBadge.background": "#9B5D1F",
+		"activityBarTop.activeBorder": "#3399FF",
+		"activityBarTop.dropBorder": "#3399FF",
+		"activityBarTop.foreground": "#3399FF",
+		"activityBarTop.inactiveForeground": "#647382",
 		"badge.background": "#9B5D1F",
 		"button.background": "#153F69",
 		"button.border": "#103050",
 		"button.foreground": "#FFFFFF",
 		"button.hoverBackground": "#1A4E82",
-		"button.secondaryBackground": "#262626",
+		"button.secondaryBackground": "#1A1A1A",
 		"button.secondaryForeground": "#E0E0E0",
-		"button.secondaryHoverBackground": "#333333",
+		"button.secondaryHoverBackground": "#1A4E82",
 		"checkbox.foreground": "#C3E1FF",
 		"dropdown.background": "#181B1E",
 		"dropdown.border": "#103050",
@@ -75,33 +79,17 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"macro": {
+			"foreground": "#E0E0E0"
+		},
+		"memberOperatorOverload": {
+			"foreground": "#E0E0E0"
+		},
+		"operatorOverload": {
+			"foreground": "#E0E0E0"
+		},
 		"constant": {
-			"foreground": "#FCA78B"
-		},
-		"parameter": {
-			"foreground": "#8BA7FC",
-			"fontStyle": "italic"
-		},
-		"property": {
-			"foreground": "#5DD4FC"
-		},
-		"selfParameter": {
-			"foreground": "#5DD4FC"
-		},
-		"variable": {
-			"foreground": "#5DD4FC"
-		},
-		"method": {
-			"foreground": "#A78BFC"
-		},
-		"method.declaration": {
-			"fontStyle": "bold"
-		},
-		"function": {
-			"foreground": "#A78BFC"
-		},
-		"function.declaration": {
-			"fontStyle": "bold"
+			"foreground": "#FCC930"
 		},
 		"class": {
 			"foreground": "#4DC425"
@@ -121,14 +109,42 @@
 		"type": {
 			"foreground": "#4DC425"
 		},
+		"enum": {
+			"foreground": "#25C49C"
+		},
+		"event": {
+			"foreground": "#25C49C"
+		},
+		"interface": {
+			"foreground": "#25C49C"
+		},
+		"property": {
+			"foreground": "#30C8FC"
+		},
+		"selfParameter": {
+			"foreground": "#30C8FC"
+		},
+		"variable": {
+			"foreground": "#30C8FC"
+		},
+		"parameter": {
+			"foreground": "#8BA7FC",
+			"fontStyle": "italic"
+		},
+		"method": {
+			"foreground": "#A78BFC"
+		},
+		"method.declaration": {
+			"fontStyle": "bold"
+		},
+		"function": {
+			"foreground": "#A78BFC"
+		},
+		"function.declaration": {
+			"fontStyle": "bold"
+		},
 		"newOperator": {
 			"foreground": "#FC5D85"
-		},
-		"operatorOverload": {
-			"foreground": "#E0E0E0"
-		},
-		"memberOperatorOverload": {
-			"foreground": "#E0E0E0"
 		}
 	},
 	"tokenColors": [
@@ -224,7 +240,7 @@
 				"punctuation.separator.pointer-access"
 			],
 			"settings": {
-				"foreground": "#FCA78B"
+				"foreground": "#FCC930"
 			}
 		},
 		{
@@ -264,19 +280,16 @@
 		},
 		{
 			"scope": [
-				"entity.name.variable.parameter",
-				"meta.parameter.initialization",
-				"variable.parameter"
+				"entity.name.tag",
+				"entity.name.variable.event"
 			],
 			"settings": {
-				"foreground": "#8BA7FC",
-				"fontStyle": "italic"
+				"foreground": "#25C49C"
 			}
 		},
 		{
 			"scope": [
 				"constant.character.math",
-				"entity.name.tag",
 				"entity.name.variable",
 				"entity.other.attribute-name",
 				"markup.inline",
@@ -286,14 +299,24 @@
 				"meta.object.member",
 				"meta.property-value",
 				"punctuation.definition.constant.math",
-				"punctuation.definition.tag",
 				"storage.modifier.import",
 				"support.class.math",
 				"support.type.property-name",
 				"variable"
 			],
 			"settings": {
-				"foreground": "#5DD4FC"
+				"foreground": "#30C8FC"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.variable.parameter",
+				"meta.parameter.initialization",
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#8BA7FC",
+				"fontStyle": "italic"
 			}
 		},
 		{
