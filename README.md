@@ -1,39 +1,10 @@
-# CheYHinSpark Theme README
+![](icon.svg)
+# [CheYHinSpark Theme](https://github.com/CheYHinSpark/CheYHinSpark-Theme) for VS Code
 
-This collection contains several themes for VS Code. 
+This collection contains several themes for VS Code, including 3 series by 3 colors. 
 
-## CheYHinSpark Blue
+## Dark Series
 
-The default theme is mainly blue and decorated with orange. 
+## Light Series
 
-## CheYHinSpark Blue Light
-
-A light version of **CheYHinSpark Blue**. 
-
-## CheYHinSpark Blue HC
-
-A high-contrast version of **CheYHinSpark Blue**. 
-
-## CheYHinSpark Green
-
-This is a eye-friendly theme using green color and magenta as highlight. 
-
-## CheYHinSpark Green Light
-
-A light version of **CheYHinSpark Green**. 
-
-## CheYHinSpark Green HC
-
-A high-contrast version of **CheYHinSpark Green**. 
-
-## CheYHinSpark Purple
-
-This is a cool theme using purple color and chartreuse as highlight. 
-
-## CheYHinSpark Purple Light
-
-A light version of **CheYHinSpark Purple**. 
-
-## CheYHinSpark Purple HC
-
-A high-contrast version of **CheYHinSpark Purple**. 
+## Dark High Contrast Series
