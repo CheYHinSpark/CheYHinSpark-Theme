@@ -1,5 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+*.py
+color_panel.svg
 colors.png
-vsc-extension-quickstart.md
